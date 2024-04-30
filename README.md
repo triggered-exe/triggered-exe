@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
     <body>
         <h1 align="center">Hi 👋, I'm Hari Shanker Sharma</h1>
         <h3 align="center">A passionate full stack web developer from India</h3>
