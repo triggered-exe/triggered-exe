@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <title>Online HTML Editor</title>
-</head>
-
 <body>
 
     <body>
