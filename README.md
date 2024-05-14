@@ -2,10 +2,12 @@
 <html>
 <body>
     <body>
-        <h1 align="center">Hi 👋, I'm Hari Shanker Sharma</h1>
+        <div align="center">
+	        <img src="hari.svg" width="800" height="100" alt="Click to see the source">
+        </div>
         <h3 align="center">A passionate full stack web developer from India</h3>
         <div align="center">
-            <img src="https://camo.githubusercontent.com/44d330807d8bb0b8049ac587fc2b3750efb43fb2e05c265038f2cf07070c3eb3/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966" alt="Banner Image" style="max-width: 100%; height: auto;">
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
         </div>
         <ul>
             <li>🌱 Learning new technologies and frameworks daily, working with Java for DSA.</li>
